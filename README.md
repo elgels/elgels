@@ -10,8 +10,8 @@
 <h2>Professional Certifications</h2>
 
 - [Google Advanced Data Analytics Professional Certificate, August 2023](https://www.credly.com/badges/dbc5ef13-38af-4720-b070-12d9595c6baf/public_url)
-- [IBM Data Analyst Professional Certificate, May 2023](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Google Data Analytics Professional Certificate, March 2023](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [IBM Data Analyst Professional Certificate, May 2023](https://www.credly.com/badges/87dd0204-13e1-46c7-a868-09450c71f91a)
+- [Google Data Analytics Professional Certificate, March 2023](https://www.credly.com/badges/8b195947-9486-4e62-bc00-d016e374d081)
 - [Google Analytics Certification, November 2022](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
 <!-- <h2> 🤳 Connect with me:</h2>
