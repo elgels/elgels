@@ -1,6 +1,6 @@
 <h1>Hi, I'm Elizabeth Gels! </h1>
 
-<h2>Data Science Projects:</h2>
+<h2>Portfolio Projects:</h2>
 
 - <b>Machine Learning</b>
   - [<b>Salifort Motors Case Study - Python</b>](https://github.com/elgels/Salifort-Case-Study/blob/main/salifort-motors-case-study-python.ipynb)
