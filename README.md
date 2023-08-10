@@ -3,9 +3,9 @@
 <h2>Data Science Projects:</h2>
 
 - <b>Machine Learning</b>
-  - [Salifort Motors Case Study - Python](https://github.com/elgels/Salifort-Case-Study/blob/main/salifort-motors-case-study-python.ipynb)
+  - [<b>Salifort Motors Case Study - Python</b>](https://github.com/elgels/Salifort-Case-Study/blob/main/salifort-motors-case-study-python.ipynb)
 - <b>Data Analysis</b>
-  - [Bellabeat Case Study - R](https://github.com/elgels/Bellabeat-Case-Study/blob/main/Bellabeat-Copy-From-Kaggle.md) <b>
+  - [<b>Bellabeat Case Study - R</b>](https://github.com/elgels/Bellabeat-Case-Study/blob/main/Bellabeat-Copy-From-Kaggle.md) <b>
   - [Cyclistic Case Study - SQL and Tableau](https://www.kaggle.com/code/elizabethgels/cyclistic-case-study-sql-and-tableau?scriptVersionId=139552539) <b>
   
 <h2>Professional Certifications</h2>
