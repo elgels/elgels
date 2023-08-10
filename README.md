@@ -4,7 +4,7 @@
 
 - <b>Machine Learning - Python</b>
   - [Capstone Project: Salifort Motors Case Study](https://github.com/elgels/Salifort-Case-Study/blob/main/salifort-motors-case-study-python.ipynb)
-- <b>Data Exploration Analysis</b>
+- <b>Exploratory Data Analysis</b>
   - [Bellabeat Case Study](https://github.com/elgels/Bellabeat-Case-Study/blob/main/Bellabeat-Copy-From-Kaggle.md) <b>
 
 <h2>📺 Professional Certifications</h2>
