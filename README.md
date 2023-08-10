@@ -6,7 +6,7 @@
   - [Salifort Motors Case Study](https://github.com/elgels/Salifort-Case-Study/blob/main/salifort-motors-case-study-python.ipynb)
 - <b>Exploratory Data Analysis - R</b>
   - [Bellabeat Case Study](https://github.com/elgels/Bellabeat-Case-Study/blob/main/Bellabeat-Copy-From-Kaggle.md) <b>
-  - Cyclistic Case Study](https://www.kaggle.com/code/elizabethgels/cyclistic-case-study-sql-and-tableau?scriptVersionId=139552539) <b>
+  - [Cyclistic Case Study](https://www.kaggle.com/code/elizabethgels/cyclistic-case-study-sql-and-tableau?scriptVersionId=139552539) <b>
   
 <h2>Professional Certifications</h2>
 
