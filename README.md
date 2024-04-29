@@ -2,6 +2,9 @@
 
 <h2>Portfolio Projects:</h2>
 
+
+- <b>IBM Data Science Professional Certificate Capstone Project</b>
+  - [<b>IBM Data Science Project Repository - Python</b>](https://github.com/elgels/IBM-Data-Science-Capstone)
 - <b>Machine Learning</b>
   - [<b>Salifort Motors Case Study - Python</b>](https://github.com/elgels/Salifort-Case-Study/blob/main/salifort-motors-case-study-python.ipynb)
 - <b>Data Analysis</b>
