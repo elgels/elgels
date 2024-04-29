@@ -13,6 +13,7 @@
   
 <h2>Professional Certifications</h2>
 
+- [IBM Data Science Professional Certificate, April 2024](https://www.credly.com/badges/90032bbc-8b61-4302-a1aa-e55a24a4d27a/public_url)
 - [Google Advanced Data Analytics Professional Certificate, August 2023](https://www.credly.com/badges/dbc5ef13-38af-4720-b070-12d9595c6baf/public_url)
 - [IBM Data Analyst Professional Certificate, May 2023](https://www.credly.com/badges/87dd0204-13e1-46c7-a868-09450c71f91a)
 - [Google Data Analytics Professional Certificate, March 2023](https://www.credly.com/badges/8b195947-9486-4e62-bc00-d016e374d081)
