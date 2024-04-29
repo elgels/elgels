@@ -4,7 +4,7 @@
 
 
 - <b>IBM Data Science Professional Certificate Capstone Project</b>
-  - [<b>IBM Data Science Capstone Project Repository - Python</b>](https://github.com/elgels/IBM-Data-Science-Capstone)
+  - [<b>IBM Data Science Capstone Project Repository</b>](https://github.com/elgels/IBM-Data-Science-Capstone)
 - <b>Machine Learning</b>
   - [<b>Salifort Motors Case Study - Python</b>](https://github.com/elgels/Salifort-Case-Study/blob/main/salifort-motors-case-study-python.ipynb)
 - <b>Data Analysis</b>
