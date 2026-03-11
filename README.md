@@ -1,4 +1,13 @@
-<h1>Hi, I'm Elizabeth Gels! </h1>
+<h1>Hi, I'm Elizabeth Gels.</h1>
+
+I'm a Data Science graduate student at Illinois Institute of Technology with a background in analytics, economics, and business strategy.
+
+My portfolio includes projects in machine learning, statistical analysis, SQL analytics, and data visualization using Python, R, and Tableau.
+
+Technical Skills:<br>
+Python | R | SQL | Machine Learning | Data Visualization | Tableau 
+
+Below are selected projects from my data science training and coursework. </h1>
 
 <h2>Portfolio Projects:</h2>
 
