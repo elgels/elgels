@@ -9,7 +9,7 @@ Python | R | SQL | Machine Learning | Data Visualization | Tableau
 
 Below are selected projects from my data science training and coursework. </h1>
 
-<h2>Portfolio Projects:</h2>
+<h2>Data Science Projects:</h2>
 
 
 - <b>IBM Data Science Professional Certificate Capstone Project</b>
