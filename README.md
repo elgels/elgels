@@ -72,11 +72,7 @@ Machine Learning • Time Series Analysis • ARIMA • SARIMA • Forecasting �
 <h3>Visualization</h3>
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="40"/>
-</p>
-
-<p>
-Tableau • Data Visualization
+R (ggplot2) • Python (matplotlib, seaborn) • Data Visualization • Statistical Graphics
 </p>
 
 <h3>Tools</h3>
