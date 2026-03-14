@@ -31,7 +31,6 @@ Forecasting analysis using the AirPassengers dataset including:
 
 <img src="https://github.com/elgels/airpassengers-time-series-analysis/blob/main/figures/forecast_plot.png?raw=true" width="400">
 <br>
-
 <a href="https://github.com/elgels/airpassengers-time-series-analysis">View Project</a>
 <br><br>
 </td>
@@ -46,12 +45,11 @@ Includes data exploration, feature analysis, and predictive modeling.
 
 <br>
 <p align="center">
-<img src="https://github.com/elgels/Salifort-Case-Study/blob/main/figures/decision_tree_plot.png?raw=true" width="380">
+<img src="https://github.com/elgels/Salifort-Case-Study/blob/main/figures/feature_importance.png?raw=true" width="400">
 </p>
-<br><br>
-
+<br>
 <a href="https://github.com/elgels/Salifort-Case-Study">View Project</a>
-
+<br><br>
 </td>
 
 </tr>
