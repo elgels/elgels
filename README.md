@@ -45,7 +45,7 @@ Includes data exploration, feature analysis, and predictive modeling.
 
 <br>
 <p align="center">
-<img src="https://github.com/elgels/Salifort-Case-Study/blob/main/figures/feature_importance.png?raw=true" width="400">
+<img src="https://github.com/elgels/Salifort-Case-Study/blob/main/figures/feature_importance.png?raw=true" width="380">
 </p>
 <br>
 <a href="https://github.com/elgels/Salifort-Case-Study">View Project</a>
