@@ -9,17 +9,17 @@ Python | R | SQL | Machine Learning | Data Visualization | Tableau
 
 Below are selected projects from my data science training and coursework. </h1>
 
-<h2>Data Science Projects:</h2>
-
-
+<b>Data Science Projects:</b>
+- <b>Graduate Data Science Projects</b>
+  - [<b>Time Series Forecasting — ARIMA/SARIMA (R) </b>](https://github.com/elgels/airpassengers-time-series-analysis)
 - <b>IBM Data Science Professional Certificate Capstone Project</b>
   - [<b>IBM Data Science Capstone Project Repository</b>](https://github.com/elgels/IBM-Data-Science-Capstone)
   - [<b>IBM Data Science Capstone Project Presentation</b>](https://coursera-assessments.s3.amazonaws.com/assessments/1714414252982/8c63e825-9095-4193-bfe9-8ebb09a480da/ds-capstone-template-coursera_Elizabeth_Gels.pdf)
-- <b>Google Advanced Data Analytics Professional Certificate Capstone Project</b>
-  - [<b>Salifort Motors Case Study - Python</b>](https://github.com/elgels/Salifort-Case-Study/blob/main/salifort-motors-case-study-python.ipynb)
-- <b>Data Analysis</b>
-  - [<b>Bellabeat Case Study - R</b>](https://github.com/elgels/Bellabeat-Case-Study/blob/main/Bellabeat-Copy-From-Kaggle.md) <b>
-  - [Cyclistic Case Study - SQL and Tableau](https://www.kaggle.com/code/elizabethgels/cyclistic-case-study-sql-and-tableau?scriptVersionId=139552539) <b>
+- <b>Machine Learning Projects</b>
+  - [<b>Salifort Motors Case Study — Python</b>](https://github.com/elgels/Salifort-Case-Study/blob/main/salifort-motors-case-study-python.ipynb)
+- <b>Data Analysis Projects</b>
+  - [<b>Bellabeat Case Study — (R)</b>](https://github.com/elgels/Bellabeat-Case-Study/blob/main/Bellabeat-Copy-From-Kaggle.md) <b>
+  - [Cyclistic Case Study — SQL and Tableau](https://www.kaggle.com/code/elizabethgels/cyclistic-case-study-sql-and-tableau?scriptVersionId=139552539) <b>
   
 <h2>Professional Certifications</h2>
 
@@ -29,29 +29,4 @@ Below are selected projects from my data science training and coursework. </h1>
 - [Google Data Analytics Professional Certificate, March 2023](https://www.credly.com/badges/8b195947-9486-4e62-bc00-d016e374d081/public_url)
   
 
-<!-- <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
