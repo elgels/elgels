@@ -16,7 +16,7 @@ Below are selected projects from my data science training and coursework. </h1>
   - [<b>IBM Data Science Capstone Project Repository</b>](https://github.com/elgels/IBM-Data-Science-Capstone)
   - [<b>IBM Data Science Capstone Project Presentation</b>](https://coursera-assessments.s3.amazonaws.com/assessments/1714414252982/8c63e825-9095-4193-bfe9-8ebb09a480da/ds-capstone-template-coursera_Elizabeth_Gels.pdf)
 - <b>Machine Learning Projects</b>
-  - [<b>Salifort Motors Case Study — Python</b>](https://github.com/elgels/Salifort-Case-Study/blob/main/salifort-motors-case-study-python.ipynb)
+  - [<b>Salifort Motors Case Study — Python</b>](https://github.com/elgels/Salifort-Case-Study)
 - <b>Data Analysis Projects</b>
   - [<b>Bellabeat Case Study — (R)</b>](https://github.com/elgels/Bellabeat-Case-Study/blob/main/Bellabeat-Copy-From-Kaggle.md) <b>
   - [Cyclistic Case Study — SQL and Tableau](https://www.kaggle.com/code/elizabethgels/cyclistic-case-study-sql-and-tableau?scriptVersionId=139552539) <b>
