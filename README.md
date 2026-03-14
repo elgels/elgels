@@ -28,9 +28,9 @@ Forecasting analysis using the AirPassengers dataset including:
 • Diagnostic testing  
 • Forecasting  
 
-<br>
+
 <img src="https://github.com/elgels/airpassengers-time-series-analysis/blob/main/figures/forecast_plot.png?raw=true" width="400">
-<br><br>
+<br>
 
 <a href="https://github.com/elgels/airpassengers-time-series-analysis">View Project</a>
 <br><br>
@@ -42,7 +42,13 @@ Forecasting analysis using the AirPassengers dataset including:
 
 Predictive modeling project analyzing employee attrition using machine learning techniques.
 
-Includes feature analysis and predictive modeling.
+Includes data exploration, feature analysis, and predictive modeling.
+
+<br>
+<p align="center">
+<img src="https://github.com/elgels/Salifort-Case-Study/blob/main/figures/decision_tree_plot.png?raw=true" width="380">
+</p>
+<br><br>
 
 <a href="https://github.com/elgels/Salifort-Case-Study">View Project</a>
 
