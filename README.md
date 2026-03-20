@@ -70,19 +70,23 @@ Includes data exploration, feature analysis, and predictive modeling.
 <h3>Data Science & Machine Learning</h3>
 
 <p>
-Machine Learning • Time Series Analysis • ARIMA • SARIMA • Forecasting • Statistical Modeling
+Machine Learning • Time Series Analysis • ARIMA • SARIMA • Forecasting • Statistical Modeling • Model Evaluation • Feature Engineering
 </p>
 
-<h3>Visualization</h3>
+<h3>Data Visualization</h3>
 
 <p>
-R (ggplot2) • Python (matplotlib, seaborn) • Data Visualization • Statistical Graphics
+Python (matplotlib, seaborn, plotly) • R (ggplot2)
 </p>
 
-<h3>Tools</h3>
+<h3>Tools & Technologies</h3>
 
 <p>
-Git • GitHub • Jupyter Notebook • RStudio
+Git • GitHub • Jupyter Notebook • RStudio • Visual Studio Code • Dash • SQLite
+</p>
+<h3>Data Collection</h3>
+<p>
+APIs • Web Scraping • Data Wrangling
 </p>
 <hr>
 <h2>Additional Projects</h2>
