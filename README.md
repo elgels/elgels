@@ -85,10 +85,14 @@ R (ggplot2) • Python (matplotlib, seaborn) • Data Visualization • Statisti
 Git • GitHub • Jupyter Notebook • RStudio
 </p>
 <hr>
-<h2>Other Data Science Projects</h2>
+<h2>Additional Projects</h2>
+<h3>Machine Learning</h3>
+<p>
+<b>IBM Data Science Capstone — SpaceX Launch Prediction (ML)</b><br>
+<a href="https://github.com/elgels/IBM-Data-Science-Capstone">View Project</a>
+</p>
 
 <h3>Data Analysis</h3>
-
 <p>
 <b>Bellabeat Case Study — R</b><br>
 <a href="https://github.com/elgels/Bellabeat-Case-Study/blob/main/Bellabeat-Copy-From-Kaggle.md">View Project</a>
@@ -97,16 +101,6 @@ Git • GitHub • Jupyter Notebook • RStudio
 <p>
 <b>Cyclistic Case Study — SQL & Tableau</b><br>
 <a href="https://www.kaggle.com/code/elizabethgels/cyclistic-case-study-sql-and-tableau?scriptVersionId=139552539">View Notebook</a>
-</p>
-
-<h3>IBM Data Science Capstone</h3>
-
-<p>
-<a href="https://github.com/elgels/IBM-Data-Science-Capstone">GitHub Repository</a>
-</p>
-
-<p>
-<a href="https://coursera-assessments.s3.amazonaws.com/assessments/1714414252982/8c63e825-9095-4193-bfe9-8ebb09a480da/ds-capstone-template-coursera_Elizabeth_Gels.pdf">Project Presentation</a>
 </p>
 
 <hr>
