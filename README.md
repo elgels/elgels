@@ -82,7 +82,7 @@ Python (matplotlib, seaborn, plotly) • R (ggplot2)
 <h3>Tools & Technologies</h3>
 
 <p>
-Git • GitHub • Jupyter Notebook • RStudio • Visual Studio Code • Dash • SQLite
+Git • GitHub • Jupyter Notebook • RStudio • Visual Studio Code • Dash (interactive dashboards) • SQLite
 </p>
 <h3>Data Collection</h3>
 <p>
