@@ -70,7 +70,7 @@ Includes data exploration, feature analysis, and predictive modeling.
 <h3>Data Science & Machine Learning</h3>
 
 <p>
-Machine Learning • Time Series Analysis • ARIMA • SARIMA • Forecasting • Statistical Modeling • Model Evaluation • Feature Engineering
+Machine Learning • Time Series Analysis • ARIMA • SARIMA • Forecasting • Statistical Modeling • Model Evaluation 
 </p>
 
 <h3>Data Visualization</h3>
@@ -86,7 +86,11 @@ Git • GitHub • Jupyter Notebook • RStudio • Visual Studio Code • Dash 
 </p>
 <h3>Data Collection</h3>
 <p>
-APIs • Web Scraping • Data Wrangling
+APIs • Web Scraping 
+</p>
+<h3>Data Preparation</h3>
+<p>
+Data Wrangling • Data Cleaning • Feature Engineering
 </p>
 <hr>
 <h2>Additional Projects</h2>
