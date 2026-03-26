@@ -107,7 +107,7 @@ Data Wrangling • Data Cleaning • Feature Engineering
 </p>
 <p>
 <b>Bellabeat Case Study — R</b><br>
-<a href="https://github.com/elgels/Bellabeat-Case-Study/blob/main/Bellabeat-Copy-From-Kaggle.md">View Project</a>
+<a href="https://github.com/elgels/Bellabeat-Case-Study/tree/main">View Project</a>
 </p>
 
 <p>
