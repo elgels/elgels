@@ -103,7 +103,7 @@ Data Wrangling • Data Cleaning • Feature Engineering
 <h3>Data Analysis</h3>
 <p>
 <b>Stock Data Extraction (APIs & Web Scraping)</b><br>
-<a href="https://github.com/elgels/Stock-Data-Extraction-APIs-Web-Scraping)">View Project</a>
+<a href="https://github.com/elgels/Stock-Data-Extraction-APIs-Web-Scraping">View Project</a>
 </p>
 <p>
 <b>Bellabeat Case Study — R</b><br>
