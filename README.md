@@ -112,7 +112,7 @@ Data Wrangling • Data Cleaning • Feature Engineering
 
 <p>
 <b>Cyclistic Case Study — SQL & Tableau</b><br>
-<a href="https://www.kaggle.com/code/elizabethgels/cyclistic-case-study-sql-and-tableau?scriptVersionId=139552539">View Notebook</a>
+<a href="https://github.com/elgels/Cyclistic_Data_Analysis_SQL_BigQuery/tree/main">View Project</a>
 </p>
 
 <hr>
