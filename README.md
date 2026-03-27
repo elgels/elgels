@@ -111,7 +111,7 @@ Data Wrangling • Data Cleaning • Feature Engineering
 </p>
 
 <p>
-<b>Cyclistic Case Study — SQL & Tableau</b><br>
+<b>Cyclistic Case Study — BigQuery (SQL) & Tableau</b><br>
 <a href="https://github.com/elgels/Cyclistic_Data_Analysis_SQL_BigQuery">View Project</a>
 </p>
 
