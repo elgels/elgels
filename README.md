@@ -76,7 +76,7 @@ Machine Learning • Time Series Analysis • ARIMA • SARIMA • Forecasting �
 <h3>Data Visualization</h3>
 
 <p>
-Python (matplotlib, seaborn, plotly) • R (ggplot2)
+Python (matplotlib, seaborn, plotly) • R (ggplot2) • Tableau
 </p>
 
 <h3>Tools & Technologies</h3>
