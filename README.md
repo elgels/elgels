@@ -94,14 +94,12 @@ Data Wrangling • Data Cleaning • Feature Engineering
 </p>
 <hr>
 <h2>Additional Projects</h2>
-<h3>Machine Learning</h3>
 <p>
 <b>IBM Data Science Capstone — SpaceX Launch Prediction — ML, Python</b><br>
 Predicts Falcon 9 first-stage landing success using classification models and historical launch data.<br>
 <a href="https://github.com/elgels/IBM-Data-Science-Capstone">View Project</a>
 </p>
 
-<h3>Data Analysis</h3>
 <p>
 <b>Stock Data Extraction — APIs & Web Scraping — Python</b><br>
 Collects and analyzes financial data using APIs and web scraping techniques to explore stock performance trends.<br> 
