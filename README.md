@@ -38,10 +38,7 @@ Forecasting analysis using the AirPassengers dataset including:
 <td width="50%">
 
 <h3>Machine Learning — Employee Attrition</h3>
-
-Predictive modeling project analyzing employee attrition using machine learning techniques.
-
-Includes data exploration, feature analysis, and predictive modeling.
+Analyzes employee data and builds classification models to identify key drivers of attrition and support data-driven HR decisions.
 
 <br>
 <p align="center">
