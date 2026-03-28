@@ -6,7 +6,7 @@ Data Science | Machine Learning | Time Series Forecasting
 
 <p align="center">
 Graduate Student in <b>Data Science</b> at the <b>Illinois Institute of Technology</b><br>
-Background in analytics, economics, and business strategy.
+Background in analytics, economics, and business strategy.<br><br>
 </p>
 
 <hr>
