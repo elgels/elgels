@@ -96,22 +96,22 @@ Data Wrangling • Data Cleaning • Feature Engineering
 <h2>Additional Projects</h2>
 <h3>Machine Learning</h3>
 <p>
-<b>IBM Data Science Capstone — SpaceX Launch Prediction (ML)</b><br>
+<b>IBM Data Science Capstone — SpaceX Launch Prediction — ML, Python</b><br>
 <a href="https://github.com/elgels/IBM-Data-Science-Capstone">View Project</a>
 </p>
 
 <h3>Data Analysis</h3>
 <p>
-<b>Stock Data Extraction — APIs & Web Scraping</b><br>
+<b>Stock Data Extraction — APIs & Web Scraping — Python</b><br>
 <a href="https://github.com/elgels/Stock-Data-Extraction-APIs-Web-Scraping">View Project</a>
 </p>
 <p>
-<b>Bellabeat Case Study — Data Analysis in R</b><br>
+<b>Bellabeat Case Study — Data Analysis — R</b><br>
 <a href="https://github.com/elgels/Bellabeat-Case-Study/tree/main">View Project</a>
 </p>
 
 <p>
-<b>Cyclistic Case Study — BigQuery (SQL) & Tableau</b><br>
+<b>Cyclistic Case Study — Data Analysis — Python, SQL, Tableau</b><br>
 <a href="https://github.com/elgels/Cyclistic_Data_Analysis_SQL_BigQuery">View Project</a>
 </p>
 
