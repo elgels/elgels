@@ -40,7 +40,7 @@ Forecasting analysis using the AirPassengers dataset including:
 <h3>Machine Learning — Employee Attrition</h3>
 Analyzes employee data and builds classification models to identify key drivers of attrition and support data-driven HR decisions.
 
-<br>
+<br><br>
 <p align="center">
 <img src="https://github.com/elgels/Salifort-Case-Study/blob/main/figures/feature_importance.png?raw=true" width="380">
 </p>
