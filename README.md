@@ -79,7 +79,7 @@ Python (matplotlib, seaborn, plotly) • R (ggplot2) • Tableau
 <h3>Tools & Technologies</h3>
 
 <p>
-Git • GitHub • Jupyter Notebook • RStudio • SQLite • BigQuery • MySQL Workbench • Visual Studio Code
+Git • GitHub • Visual Studio Code • Jupyter Notebook • RStudio • SQLite • MySQL Workbench • BigQuery  
 </p>
 <h3>Data Collection</h3>
 <p>
