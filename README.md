@@ -20,14 +20,15 @@ Background in analytics, economics, and business strategy.<br><br>
 
 <h3>Time Series Forecasting — ARIMA/SARIMA</h3>
 
-Forecasting analysis using the AirPassengers dataset including:
+Statistical time series modeling project in R using SARIMA to capture trend and seasonality.
 
-• Stationarity testing  
-• ACF/PACF analysis  
-• Model identification  
-• Diagnostic testing  
-• Forecasting  
-
+<ul>
+  <li>Stationarity transformations (log, differencing)</li>
+  <li>ACF/PACF analysis for model identification</li>
+  <li>SARIMA model selection and tuning</li>
+  <li>Residual diagnostics (Ljung–Box, Q-Q plot)</li>
+  <li>Forecasting with prediction intervals</li>
+</ul>
 
 <img src="https://github.com/elgels/airpassengers-time-series-analysis/blob/main/figures/forecast_plot.png?raw=true" width="400">
 <br>
