@@ -15,6 +15,24 @@ Background in analytics, economics, and business strategy.<br><br>
 
 <table>
 <tr>
+<td width="50%">
+
+<h3>Deep Learning — Image Classification</h3>
+
+CNN-based image classification project progressing from MNIST (baseline) to CIFAR-10, achieving ~86% test accuracy with detailed error analysis.
+
+<ul>
+  <li>Convolutional Neural Network (CNN) design and training (PyTorch)</li>
+  <li>Confusion matrix analysis to identify class-level misclassification (e.g., cat vs dog)</li>
+  <li>Performance evaluation across training, validation, and test sets</li>
+</ul>
+
+<img src="https://github.com/elgels/cnn-image-classification-mnist-cifar10/blob/main/figures/confusion_matrix.png" width="400">
+<br>
+<a href="https://github.com/elgels/cnn-image-classification-mnist-cifar10">View Project</a>
+<br><br>
+</td>
+
 
 <td width="50%">
 
@@ -36,6 +54,7 @@ Statistical time series modeling project in R using SARIMA to capture trend and 
 <br><br>
 </td>
 
+<tr>
 <td width="50%">
 
 <h3>Machine Learning — Employee Attrition</h3>
@@ -49,7 +68,8 @@ Analyzes employee data and builds classification models to identify key drivers 
 <a href="https://github.com/elgels/Salifort-Case-Study">View Project</a>
 <br><br>
 </td>
-
+<!-- EMPTY CELL to keep layout aligned -->
+<td width="50%"></td>
 </tr>
 </table>
 
