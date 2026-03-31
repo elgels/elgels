@@ -26,11 +26,11 @@ CNN-based image classification project progressing from MNIST (baseline) to CIFA
   <li>Confusion matrix analysis to identify class-level misclassification (e.g., cat vs dog)</li>
   <li>Performance evaluation across training, validation, and test sets</li>
 </ul>
-
+<p align="center">
 <img src="https://github.com/elgels/cnn-image-classification-mnist-cifar10/blob/main/figures/confusion_matrix.png" width="380">
-
+</p>
 <a href="https://github.com/elgels/cnn-image-classification-mnist-cifar10">View Project</a>
-<br>
+<br><br>
 </td>
 
 
