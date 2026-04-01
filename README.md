@@ -33,7 +33,25 @@ CNN-based image classification project progressing from MNIST (baseline) to CIFA
 <br><br>
 </td>
 
+<td width="50%">
 
+<h3>Deep Learning — Sentiment Analysis</h3>
+
+LSTM-based sentiment analysis project using GloVe embeddings, convolutional feature extraction, and attention, achieving ~65% validation accuracy with detailed attention analysis.
+
+<ul>
+  <li>CNN + Bidirectional LSTM architecture with attention mechanism</li>
+  <li>Pretrained GloVe embeddings for improved word representation</li>
+  <li>Confusion matrix and attention visualization for model interpretability</li>
+</ul>
+<p align="center">
+<img src="https://github.com/elgels/cnn-image-classification-mnist-cifar10/blob/main/figures/confusion_matrix.png" width="380">
+</p>
+<a href="https://github.com/elgels/cnn-image-classification-mnist-cifar10">View Project</a>
+<br><br>
+</td>
+
+<tr>
 <td width="50%">
 
 <h3>Time Series Forecasting — ARIMA/SARIMA</h3>
@@ -54,7 +72,6 @@ Statistical time series modeling project in R using SARIMA to capture trend and 
 <br><br>
 </td>
 
-<tr>
 <td width="50%">
 
 <h3>Machine Learning — Employee Attrition</h3>
