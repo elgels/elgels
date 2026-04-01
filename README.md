@@ -47,7 +47,7 @@ LSTM-based sentiment analysis project using GloVe embeddings, convolutional feat
 <p align="center">
 <img src="https://github.com/elgels/cnn-image-classification-mnist-cifar10/blob/main/figures/confusion_matrix.png" width="380">
 </p>
-<a href="https://github.com/elgels/cnn-image-classification-mnist-cifar10">View Project</a>
+<a href="https://github.com/elgels/sentiment_analysis_LSTM">View Project</a>
 <br><br>
 </td>
 
