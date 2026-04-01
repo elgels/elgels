@@ -45,7 +45,7 @@ LSTM-based sentiment analysis project using GloVe embeddings, convolutional feat
   <li>Confusion matrix and attention visualization for model interpretability</li>
 </ul>
 <p align="center">
-<img src="https://github.com/elgels/sentiment_analysis_LSTM/blob/main/figures/confusion_matrix.png" width="380">
+<img src="https://github.com/elgels/sentiment_analysis_LSTM/blob/main/figures/confusion_matrix.png" width="350">
 </p>
 <a href="https://github.com/elgels/sentiment_analysis_LSTM">View Project</a>
 <br><br>
