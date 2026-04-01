@@ -105,28 +105,25 @@ Analyzes employee data and builds classification models to identify key drivers 
 <h3>Data Science & Machine Learning</h3>
 
 <p>
-Machine Learning • Time Series Analysis • ARIMA • SARIMA • Forecasting • Statistical Modeling • Model Evaluation 
+Machine Learning • Deep Learning (CNN, LSTM) • Natural Language Processing (NLP) • Time Series Analysis (ARIMA/SARIMA) • Forecasting • Statistical Modeling • Model Evaluation
 </p>
 
 <h3>Data Visualization</h3>
 
 <p>
-Python (matplotlib, seaborn, plotly) • R (ggplot2) • Tableau
+Python (Matplotlib, Seaborn, Plotly) • R (ggplot2) • Tableau
 </p>
 
 <h3>Tools & Technologies</h3>
 
 <p>
-Git • GitHub • Visual Studio Code • Jupyter Notebook • RStudio • SQLite • MySQL Workbench • BigQuery  
+Git • GitHub • Jupyter Notebook • Visual Studio Code • RStudio • BigQuery • MySQL Workbench 
 </p>
-<h3>Data Collection</h3>
+<h3>Data Handling</h3>
 <p>
-APIs • Web Scraping 
+Data Cleaning • Data Wrangling • Feature Engineering • APIs • Web Scraping
 </p>
-<h3>Data Preparation</h3>
-<p>
-Data Wrangling • Data Cleaning • Feature Engineering
-</p>
+
 <hr>
 <h2>Additional Projects</h2>
 <p>
