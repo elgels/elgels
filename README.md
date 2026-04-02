@@ -66,9 +66,9 @@ Statistical time series modeling project in R using SARIMA to capture trend and 
   <li>Forecasting with prediction intervals</li>
 </ul>
 
-<img src="https://github.com/elgels/airpassengers-time-series-analysis/blob/main/figures/forecast_plot.png?raw=true" width="550">
+<img src="https://github.com/elgels/time-series-sarima/blob/main/figures/forecast_plot.png?raw=true" width="550">
 <br><br>
-<a href="https://github.com/elgels/airpassengers-time-series-analysis">View Project</a>
+<a href="https://github.com/elgels/time-series-sarima">View Project</a>
 <br><br>
 </td>
 
