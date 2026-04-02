@@ -27,9 +27,9 @@ CNN-based image classification project progressing from MNIST (baseline) to CIFA
   <li>Performance evaluation across training, validation, and test sets</li>
 </ul>
 <p align="center">
-<img src="https://github.com/elgels/cnn-image-classification-mnist-cifar10/blob/main/figures/confusion_matrix.png" width="380">
+<img src="https://github.com/elgels/image-classification-cnn/blob/main/figures/confusion_matrix.png" width="380">
 </p>
-<a href="https://github.com/elgels/cnn-image-classification-mnist-cifar10">View Project</a>
+<a href="https://github.com/elgels/image-classification-cnn">View Project</a>
 <br><br>
 </td>
 
