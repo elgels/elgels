@@ -157,25 +157,25 @@ Combines SQL, Python, and Tableau to analyze bike-share data and uncover user pa
 
 <li>
 <a href="https://www.coursera.org/account/accomplishments/specialization/9KSBZB6JTPVU">
-IBM Data Science Professional Certificate — April 2024
+IBM Data Science Certificate — April 2024
 </a>
 </li>
 
 <li>
 <a href="https://www.coursera.org/account/accomplishments/specialization/AQY48AW34VNE">
-Google Advanced Data Analytics Professional Certificate — August 2023
+Google Advanced Data Analytics Certificate — August 2023
 </a>
 </li>
 
 <li>
 <a href="https://www.coursera.org/account/accomplishments/specialization/P84JBQ6C43SR">
-IBM Data Analyst Professional Certificate — May 2023
+IBM Data Analyst Certificate — May 2023
 </a>
 </li>
 
 <li>
 <a href="https://www.coursera.org/account/accomplishments/specialization/ZG6TH3GN5ZFD">
-Google Data Analytics Professional Certificate — March 2023
+Google Data Analytics Certificate — March 2023
 </a>
 </li>
 
