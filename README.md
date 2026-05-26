@@ -37,17 +37,17 @@ CNN-based image classification project progressing from MNIST (baseline) to CIFA
 
 <h3>Deep Learning — Sentiment Analysis</h3>
 
-LSTM-based sentiment analysis project using GloVe embeddings, convolutional feature extraction, and attention, achieving ~65% validation accuracy with detailed attention analysis.
+Transformer-based sentiment analysis project using pretrained BERT embeddings and fine-tuning on the Stanford Sentiment Treebank (SST), achieving improved performance over the earlier CNN-BiLSTM-Attention model with detailed confusion matrix analysis.
 
 <ul>
-  <li>CNN + Bidirectional LSTM architecture with attention mechanism</li>
-  <li>Pretrained GloVe embeddings for improved word representation</li>
-  <li>Confusion matrix and attention visualization for model interpretability</li>
+  <li>Fine-tuned pretrained BERT-base Transformer architecture for sentence classification</li>
+  <li>Contextual word representations generated through multi-head self-attention</li>
+  <li>Confusion matrix analysis highlighting challenges in neutral sentiment classification</li>
 </ul>
 <p align="center">
-<img src="https://github.com/elgels/sentiment-analysis-lstm/blob/main/figures/confusion_matrix.png" width="340">
+<img src="https://github.com/elgels/sentiment-analysis-bert/blob/main/figures/BERT_Confusion_Matrix.png" width="340">
 </p>
-<a href="https://github.com/elgels/sentiment-analysis-lstm">View Project</a>
+<a href="https://github.com/elgels/sentiment-analysis-bert">View Project</a>
 <br><br>
 </td>
 
