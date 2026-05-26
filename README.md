@@ -126,6 +126,13 @@ Data Cleaning • Data Wrangling • Feature Engineering • APIs • Web Scrapi
 
 <hr>
 <h2>Additional Projects</h2>
+
+<p>
+<b>CNN-BiLSTM-Attention Sentiment Classification (SST-3) — Deep Learning, Python</b><br>
+Implements a hybrid CNN + Bidirectional LSTM architecture with attention and pretrained GloVe embeddings for sentiment classification and model interpretability analysis.<br>
+<a href="https://github.com/elgels/sentiment-analysis-lstm">View Project</a>
+</p>
+
 <p>
 <b>IBM Data Science Capstone — SpaceX Launch Prediction — ML, Python</b><br>
 Predicts Falcon 9 first-stage landing success using classification models and historical launch data.<br>
