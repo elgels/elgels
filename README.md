@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Elizabeth Gels</h1>
 
 <p align="center">
-Data Science | Machine Learning | Time Series Forecasting
+Data Science | Machine Learning | Deep Learning | Time Series Forecasting
 </p>
 
 <p align="center">
-Graduate Student in <b>Data Science</b> at the <b>Illinois Institute of Technology</b><br>
+Master of Applied Science in <b>Data Science</b> graduate from the <b>Illinois Institute of Technology</b><br>  
 Background in analytics, economics, and business strategy.<br><br>
 </p>
 
