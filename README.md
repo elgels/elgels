@@ -134,7 +134,7 @@ Implements a hybrid CNN + Bidirectional LSTM architecture with attention and pre
 </p>
 
 <p>
-<b>IBM Data Science Capstone — SpaceX Launch Prediction — ML, Python</b><br>
+<b>IBM Data Science Capstone — SpaceX Launch Prediction — Machine Learning, Python</b><br>
 Predicts Falcon 9 first-stage landing success using classification models and historical launch data.<br>
 <a href="https://github.com/elgels/IBM-Data-Science-Capstone">View Project</a>
 </p>
