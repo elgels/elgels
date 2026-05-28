@@ -104,12 +104,12 @@ Analyzes employee data and builds classification models to identify key drivers 
 
 <h3>Machine Learning & Statistical Modeling</h3>
 <p>
-Supervised & Unsupervised Learning • Statistical Modeling • Model Evaluation • Forecasting • Time Series Analysis (ARIMA/SARIMA)
+Supervised & Unsupervised Learning • Statistical Modeling • Forecasting • Time Series Analysis (ARIMA/SARIMA) • Model Evaluation
 </p>
 
 <h3>Deep Learning & NLP</h3>
 <p>
-Deep Learning • CNNs • LSTMs • Transformers (BERT) • Attention Mechanisms • Natural Language Processing (NLP)
+CNNs • LSTMs • Transformers (BERT) • Attention Mechanisms • NLP
 </p>
 
 <h3>Data Visualization</h3>
