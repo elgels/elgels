@@ -102,14 +102,17 @@ Analyzes employee data and builds classification models to identify key drivers 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 </p>
 
-<h3>Data Science & Machine Learning</h3>
-
+<h3>Machine Learning & Statistical Modeling</h3>
 <p>
-Machine Learning • Deep Learning (CNN, LSTM) • Natural Language Processing (NLP) • Time Series Analysis (ARIMA/SARIMA) • Forecasting • Statistical Modeling • Model Evaluation
+Supervised & Unsupervised Learning • Statistical Modeling • Model Evaluation • Forecasting • Time Series Analysis (ARIMA/SARIMA)
+</p>
+
+<h3>Deep Learning & NLP</h3>
+<p>
+Deep Learning • CNNs • LSTMs • Transformers (BERT) • Attention Mechanisms • Natural Language Processing (NLP)
 </p>
 
 <h3>Data Visualization</h3>
-
 <p>
 Python (Matplotlib, Seaborn, Plotly) • R (ggplot2) • Tableau
 </p>
